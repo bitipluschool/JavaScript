@@ -1,18 +1,18 @@
-// פרק 3 - אובייקט
-// סוגריים מסולסלות יוצרות אובייקט
+/*  ---  JavaScript Basic - Objects  ---  */
+// Syntax: let obj = {...}
 
 let person = {
-  name: "אוראל חסיד", // Key: Value (Property)
+  name: "Orel Hassid", // Key: Value (Property)
   age: 23,
 };
 
-// קריאה וכתיבה מהאובייקט
+// Read and Write
 
 // 1. Dot Notation
-person.age = 16; // שינוי הערך
+person.age = 16; // modify value
 
 // 2. Bracket Notation - Dynamic Access
-let option = "גיל";
-person[option]; // שווה ל person['age']
+let option = "age";
+person[option]; // person['age']
 
 console.log(person);

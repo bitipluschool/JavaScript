@@ -1,3 +1,6 @@
+/*  ---  JavaScript Basic - Functions  ---  */
+// Syntax: function <name>() {...}
+
 function getUser() {
   return {
     name: "Orel Hassid",
@@ -16,9 +19,3 @@ addition(10, 5);
 function print(message) {
   console.log(message);
 }
-
-// print("שלום");
-// print("סבבה");
-
-// פרק 5 - פונקציות
-// Syntax: function <name>() {...}
