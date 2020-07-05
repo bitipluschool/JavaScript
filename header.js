@@ -14,10 +14,11 @@ function getScriptName() {
   else if (error.fileName != undefined) return error.fileName;
 }
 
-const scriptName = getScriptName();
+// const scriptName = getScriptName();
+const scriptName = "EchoPlus";
 
 console.log(
-  `%c⚔️ ${scriptName}`,
+  `%c⚔️ ${scriptName} ⚔️`,
   "font-size:34px; color:#E1BC79;padding: 5px 0 0 5px"
 );
 console.log(
