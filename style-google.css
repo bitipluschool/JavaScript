@@ -1,0 +1,173 @@
+:root {
+  --bg-color: #282c34;
+  --bg-color2: #21252b;
+  --bg-color3: #2f3443;
+  --input: #2f3443;
+  --text: #97abb7;
+  --text2: #c7ced6;
+  --primary: #467cfb; /* red */
+  --secondary: #467cfb; /* red */
+  /* --secondary: rgb(156, 96, 235) !important; red */
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+body {
+  background: var(--bg-color) !important;
+  color: #97abb7 !important;
+  font-family: "Rubik", sans-serif;
+}
+
+a,
+span,
+input[type="text"],
+.JolIg {
+  color: var(--text) !important;
+}
+
+/* Input Text */
+input,
+.RNNXgb,
+.aajZCb {
+  background: var(--input) !important;
+}
+.RNNXgb,
+input {
+  /* border: 1px solid var(--input) !important; */
+  border: none !important;
+}
+/* Search Button */
+.tfB0Bf input[type="submit"]:nth-child(1) {
+  background: var(--primary) !important;
+  color: #fff;
+}
+.tfB0Bf input[type="submit"]:nth-child(2) {
+  border: 1.5px solid var(--primary) !important;
+  color: #fff;
+}
+
+.gb_l .gb_rb,
+.s {
+  color: var(--text) !important;
+}
+.gb_l .gb_tb {
+  color: var(--text2) !important;
+}
+/* Footer */
+#fbar {
+  background: var(--bg-color2) !important;
+}
+.b2hzT,
+#fbar {
+  border: 1px solid #272b38 !important;
+}
+
+/* Window Menu */
+.sbhl,
+.gb_F {
+  background: var(--bg-color3) !important;
+}
+/* Window Menu - Button */
+
+.gb_Bb {
+  background: var(--bg-color2) !important;
+}
+.gb_Ob,
+.gb_Ib,
+.gb_lg,
+.gb_tg {
+  border: none !important;
+}
+.gb_Jb,
+.gb_xb.gb_xb {
+  background: var(--secondary) !important;
+  border: none;
+  color: #fff !important;
+}
+
+/*Avatar */
+.gb_Xf {
+  display: flex;
+  align-items: center;
+  background: var(--bg-color3) !important;
+  border-radius: 50px;
+  padding: 3px;
+}
+
+/* Google Search */
+#hdtbSum,
+#appbar,
+g-inner-card {
+  background: var(--bg-color) !important;
+  border: none !important;
+}
+g-inner-card {
+  background: var(--bg-color2) !important;
+}
+.kLhEKe {
+  background: var(--bg-color3) !important;
+}
+#hdtb,
+.cv2VAd {
+  border: none !important;
+}
+.a,
+cite,
+cite a:link,
+cite a:visited,
+.cite,
+.cite:link,
+.bc a:link {
+  color: #fff !important;
+}
+
+/* Top Bar */
+.searchform {
+  background: var(--bg-color) !important;
+  box-shadow: 0px 5px 6px 0 rgba(32, 33, 36, 0.28) !important;
+}
+.sfbg {
+  background: var(--bg-color) !important;
+  /* background-color: red !important; */
+}
+/* People Also Ask */
+.cbphWd {
+  border-top: 1px solid var(--bg-color2) !important;
+}
+.kp-blk {
+  border: 1px solid var(--bg-color2) !important;
+}
+
+#hdtb-msb .hdtb-mitem.hdtb-msel {
+  border-bottom: 3px solid var(--primary) !important;
+  color: var(--primary) !important;
+}
+
+/* Sidebar search */
+.rhscol .I6TXqe {
+  border: none !important;
+  border-left: 1px solid var(--bg-color2) !important;
+}
+.w8qArf .fl {
+  color: var(--text) !important;
+}
+
+g-img {
+  background-color: var(--bg-color) !important;
+}
+
+.qmv19b {
+  border: none !important;
+}
+
+.EPLo7b {
+  border-top: 1px solid var(--bg-color2) !important;
+}
+#brs .med,
+.Ss2Faf {
+  color: var(--text) !important;
+}
+
+.SzZmKb + div {
+  border: 1px solid var(--bg-color2) !important;
+}
