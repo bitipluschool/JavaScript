@@ -1,16 +1,42 @@
-# JavaScript Basics
+<p align="center">
+  <a href="https://drive.google.com/uc?id=1BJOIzw2dRLjRhybJGoh5DlZdHEiA_jGx">
+    <img alt="EchoPlus" src="https://drive.google.com/uc?id=1BJOIzw2dRLjRhybJGoh5DlZdHEiA_jGx" width="100" />
+  </a>
+</p>
+<h1 align="center">
+  ECHOPLUS
+</h1>
+
+<h3 align="center">
+  ⚛️ 📄 🚀
+</h3>
+<h3 align="center">
+  Your first step to becoming a professional web developer
+</h3>
+<p align="center">
+  ECHOPLUS is a place that bring big plus to your skills
+</p>
+<p align="center"> </p>
+
+## What’s In This Document
+
+- [Get Up and Running in 5 Minutes](#-get-up-and-running-in-5-minutes)
+- [Learning JavaScript](#-learning-javascript)
+
+## 🚀 Get Up and Running in 5 Minutes
+
+### Install the following:
+
+1. **Visual Studio Code.**
+   <a href="https://code.visualstudio.com/download">download</a>
+
+2. **Live Server extension.**
+   <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">download</a>
 
 ## Written by Orel Hassid
 
 Here you can find all the basic uses with JavaScript.
 Every file contains desciption, syntax and examples.
-
-## How to use it
-
-### Install the following:
-
-1. Visual Studio Code
-2. Live Server extension
 
 ### index.html
 

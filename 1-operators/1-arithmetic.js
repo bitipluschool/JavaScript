@@ -1,3 +1,6 @@
+/*  ---  JavaScript - Operators ---  */
+/*  ---  Arithmetic  ---  */
+
 let x = 10;
 let y = 5;
 
