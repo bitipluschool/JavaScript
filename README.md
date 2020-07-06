@@ -28,10 +28,10 @@
 ### Install the following:
 
 1. **Visual Studio Code.**
-   <a href="https://code.visualstudio.com/download">Visual Studio</a>
+   <a href="https://code.visualstudio.com/download">download</a>
 
 2. **Live Server extension.**
-   <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Visual Studio</a>
+   <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">download</a>
 
 ## Written by Orel Hassid
 
