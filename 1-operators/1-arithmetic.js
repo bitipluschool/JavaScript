@@ -14,8 +14,8 @@ x ** y; // חזקה (Exponentiation)
 x++; // x = x + 1 // תוספת (Increment)
 x--; // x = x - 1 // צמצום (Decrement)
 
-console.log(x++); // 11
-console.log(++x); // 10
+// console.log(x++); // 11
+// console.log(++x); // 10
 
 "Code" + 7; // Code7
 "Code" + 20 + 5; // Code205
