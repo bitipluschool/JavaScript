@@ -7,7 +7,7 @@ function getUser() {
     age: 23,
   };
 }
-
+// בלובלבובבו
 const user = getUser();
 
 function addition(x, y) {
